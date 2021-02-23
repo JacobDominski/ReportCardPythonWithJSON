@@ -1,0 +1,32 @@
+{
+    "Name": "John Smith",
+    "Grade Level": 9,
+    "Semester": "Fall",
+    "Subjects": {
+        "Math":{
+            "Class": "Algebra 1",
+            "Teacher": "Mr. Wilson",
+            "Grade": 94
+        },
+        "Science":{
+            "Class": "Biology",
+            "Teacher": "Ms. Connell",
+            "Grade": 96
+        },
+        "English":{
+            "Class": "Creative Writing",
+            "Teacher": "Mrs. Rebecca",
+            "Grade": 92
+        },
+        "History":{
+            "Class": "Modern U.S. History",
+            "Teacher": "Mr. Baker",
+            "Grade": 93
+        },
+        "Computer Science":{
+            "Class": "Computer Science Principles",
+            "Teacher": "Mr. Collins",
+            "Grade": 100
+        }
+    }
+}
